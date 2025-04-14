@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @zunerUA
-- 👀 I’m interested in Games Development
+- 👋 Hi, I’m @zunerdev
+- 👀 I’m interested in Games Development, Computer Science.
 - 🌱 I’m currently learning C#, Unity
-- 💞️ I’m looking to collaborate on Roblox
+- 💞️ I’m looking to collaborate on Roblox, Unity
 - 📫 My discord: .zuner
 - 😄 Pronouns: He/Him/His
 <!---
